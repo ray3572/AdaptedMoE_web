@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "效果展示"
+title: ""
 permalink: /adaptedmoe_demo/
 author_profile: true
 redirect_from:
@@ -15,17 +15,15 @@ redirect_from:
 ## 便于部署
 ### 不包含任何定制算子，所有操作均可NPU执行
 
-
-# AdaptedMoE PAUROC指标领先目前大多数异常检测算法  
 <center>
-    <img src="\images\/adaptedmoe\/PAUROC.png">
+    <img src="https://github.com/ray3572/AdaptedMoE_web/blob/gh-pages/images/adaptedmoe/PAUROC.png">
 </center> 
 
 
 # AdaptedMoE实测效果  
 <center>
-    <img src="\images\/adaptedmoe\/result0.png">
-    <img src="\images\/adaptedmoe\/result1.png">
+    <img src="https://github.com/ray3572/AdaptedMoE_web/blob/gh-pages/images/adaptedmoe/result0.png">
+    <img src="https://github.com/ray3572/AdaptedMoE_web/blob/gh-pages/images/adaptedmoe/result1.png">
 </center> 
 
 

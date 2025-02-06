@@ -12,7 +12,7 @@ redirect_from:
 ### 针对这类问题，我们提出了一种基于混合专家模型外加测试时自适应的方法，在不增加额外计算量的情况下，显著提升了模型性能
 {% include base_path %}
 <center>
-  <img src="\images\/adaptedmoe\/issue_define.png">
+  <img src="https://github.com/ray3572/AdaptedMoE_web/blob/gh-pages/images/adaptedmoe/issue_define.png">
 </center> 
 
 
