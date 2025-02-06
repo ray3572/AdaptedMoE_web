@@ -23,17 +23,16 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: left;">
-  <img src="https://ray3572.github.io/AutoAOI_web/images/authors/zzk.png" alt="示例图片" style="width: 200px; height: auto; margin-right: 20px;">
-  <p>曾梓康 ，南京大学集成电路学院在读硕士，机器人相关国家级奖项八项，主要研究方向为Robot control、circuit design、AI for Chips等机器人交叉领域，在大疆承办的Robomaster机甲大师赛中多次获得MVP称号
+  <img src="https://ray3572.github.io/AdaptedMoE_web/images/authors/csl.png" alt="示例图片" style="width: 200px; height: auto; margin-right: 20px;">
+  <p>陈思霖，本科及硕士就读于中国矿业大学计算机学院，现为南京大学集成电路学院博士生，
+主要研究AI for Remote Sensing、AI for Chips、图像分割等AI交叉学科应用。
+以第一作者/学生第一作者撰写/发表/在投论文4篇，其中包含SCI顶级期刊2篇；以其他作者发表文章5篇。
+
 
 </p>
 </div>
 
-<div style="display: flex; align-items: left;">
-  <img src="https://ray3572.github.io/AutoAOI_web/images/authors/wyr.png" alt="示例图片" style="width: 200px; height: auto; margin-right: 20px;">
-  <p>王艺儒，本科就读于湘潭大学物理与光电工程学院，现为南京大学集成电路学院在读硕士研究生，具备扎实的微电子工艺与光学基础。曾参与英特尔中国创新中心QuartusII Modelsim联合FPGA时钟仿真验证项目。近期研究方向包括图像质量评估、图像异常检测等。
-</p>
-</div>
+
 
 
 
