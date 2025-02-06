@@ -18,14 +18,14 @@ redirect_from:
 
 # AdaptedMoE PAUROC指标领先目前大多数异常检测算法  
 <center>
-    <img src="https://ray3572.github.io/AdaptedMoE_web/\images\/adaptedmoe\/PAUROC.png">
+    <img src="\images\/adaptedmoe\/PAUROC.png">
 </center> 
 
 
 # AdaptedMoE实测效果  
 <center>
-    <img src="https://ray3572.github.io/AdaptedMoE_web/\images\/adaptedmoe\/result0.png">
-    <img src="https://ray3572.github.io/AdaptedMoE_web/\images\/adaptedmoe\/result1.png">
+    <img src="\images\/adaptedmoe\/result0.png">
+    <img src="\images\/adaptedmoe\/result1.png">
 </center> 
 
 

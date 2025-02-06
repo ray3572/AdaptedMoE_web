@@ -10,19 +10,19 @@ redirect_from:
 # 数据集
 ## 数据集以轻微缺陷为主，包括布料、晶圆、金属板三大类39种具备重复性纹理的材料。训练集与测试集分离，测试集的光学方案、材料规格与训练集完全不同。
 <center>
-  <img src="https://ray3572.github.io/AdaptedMoE_web/\images\/adaptedmoe\/dataset.png">
+  <img src="\images\/adaptedmoe\/dataset.png">
 </center> 
 
 
 <center>
-  <img src="https://ray3572.github.io/AdaptedMoE_web/\images\/adaptedmoe\/overview.png">
+  <img src="\images\/adaptedmoe\/overview.png">
 </center> 
 
 # 整体方案
 ## 通过一个路由网络将测试数据路由至合适的专家网络，并通过测试时适配（TTA）将现有数据的表征分布与专家模型进行同步，最后通过专家网络进行异常检测。
 
 <center>
-  <img src="https://ray3572.github.io/AdaptedMoE_web/\images\/adaptedmoe\/MoE.png">
+  <img src="\images\/adaptedmoe\/MoE.png">
 </center> 
 
 # 路由网络的优势：
@@ -33,7 +33,7 @@ redirect_from:
 ## 将质检问题分治，减轻了不同类型布料之间的缺陷定义冲突带来的精度损失。
 ## 能够简化模型，在初始化之后只需要加载部分参数即可实现全部功能。
 <center>
-  <img src="https://ray3572.github.io/AdaptedMoE_web/\images\/adaptedmoe\/TTA.png">
+  <img src="\images\/adaptedmoe\/TTA.png">
 </center> 
 
 # TTA的优势：
