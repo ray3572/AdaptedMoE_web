@@ -16,14 +16,14 @@ redirect_from:
 ### 不包含任何定制算子，所有操作均可NPU执行
 
 <center>
-    <img src="\/images\/adaptedmoe\/PAUROC.png">
+    <img src="\images\/adaptedmoe\/PAUROC.png">
 </center> 
 
 
 # AdaptedMoE实测效果  
 <center>
-    <img src="\/images\/adaptedmoe\/result0.png">
-    <img src="\/images\/adaptedmoe\/result1.png">
+    <img src="\images\/adaptedmoe\/result0.png">
+    <img src="\images\/adaptedmoe\/result1.png">
 </center> 
 
 
