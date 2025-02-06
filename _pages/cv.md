@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,120 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 硕士 南京大学 商学院 2020-2023
+* 本科 河北工业大学 计算机学院 2013-2017
 
-Work experience
+工作履历
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.01-至今 南京大学集成电路学院 
+  * 算法工程师 
+* 2023.07-2024.01 征图新视科技股份有限公司 
+  * 算法工程师
+* 2022.12-2023.06 智梭无人车 
+  * 算法研发团队负责人
+* 2020.12-2022.04 佳源科技股份有限公司 
+  * 算法研发团队负责人
+* 2017.09-2020.12 多伦科技股份有限公司（SH603528） 
+  * 2020.04-2020.12 山乘智能科技有限公司（孵化项目）算法研发团队负责人
+  * 2018.05-2020.03 算法研发团队负责人
+  * 2017.09-2018.04 算法工程师
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+获奖及荣誉
+======
+* 2018全球人工智能应用创新大赛 [链接](https://blog.heywhale.com/nanjingai/)
+  * 车道线检测赛道 冠军 奖金30w元
+  * 项目负责人 整体方案设计
+* 2019阿里巴巴YOUKU-VSRE 视频增强和超分辨率挑战赛 [链接](https://www.jiqizhixin.com/articles/2019-09-28)
+  * 极客奖 排名4/1517
+  * 项目负责人 核心算法设计
+* NAIC2020 AI+无线通讯 
+  * MIMO信道压缩 8/1736
+* NAIC2021 AI+无线通讯 
+  * MIMO信道译码 初赛 24/2434
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+项目经验
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **征图新视科技股份有限公司**
+  * 缺陷检测算法优化 2023  
+    应用数据增强、多尺度特征融合、表征学习等策略针对缺陷检测中的多尺度（2-1000pixel）、
+    新样貌精度不足等关键问题进行算法调优。研发成果服务于苹果、宁德时代等多家大型企业。  
+    ***关键词：异常检测 工业质检***
+* **智梭无人车**
+  * 车载视觉环境感知系统  2023
+  设计并实施无人车视觉环境感知算法系统研发，其中包含设计搭建数据闭环
+  系统、交通灯识别算法研发、交通参与者3D目标检测追踪、Meta SAM语义分割迁移学习及costmap同步等，
+  并基于Apollo框架+Orin板卡环境进行部署。大幅降低因环境感知误差导致的人工接管  
+  ***关键词：自动驾驶环境感知 深度学习系统架构 无人车量产算法优化***
 
-Publications
+* **佳源科技股份有限公司**
+  * 佳源人工智能平台 2021-2022  
+   为降低研发人员的工作耦合，提升研发效率而研发的人工智能算法
+   研发平台。打造从算法训练、部署到现场反馈优化的数据闭环系统，自动
+   化处理重复性工作。  
+   ***关键词：DevOps 深度学习系统架构***
+
+  * 变电站智能巡视系统  [2021-2022]
+  为减轻变电站巡视人员工作压力，通过监控摄像机实现了表计读数、设备运
+  行状态、设备形变等巡视需求的自动化评判。  [专利2,3,4]  
+  ***关键词：图像处理 图像特征算子设计***
+
+  * 配电站智能网关  2021-2022  
+    通过配电站网关搭载的低功耗设备进行站房内的多项异常事件检测预警。
+  通过半监督学习实现了未知品种的小动物闯入事件预警，运用光照强度估计、BGS等技术针对不同站房场景差
+  异较大的问题进行优化，实现少样本高精度部署。并针对瑞芯微RK1808的计算特点进
+  行调优，可同时流畅监控8路视频。  
+  为2021年国网电科院新检测标准下江苏省首套过检产品。    
+  ***关键词：目标检测 半监督学习 移动目标检测 监控事件检测***
+
+* **多伦科技股份有限公司**
+  * 交通卡口碰撞预警  2020  
+  通过在交通路口安装监控设备，实时跟踪交通目标的运动状态，在即将发生交通事
+  故或路口内出现违章行驶时，通过信号牌进行风险提示。  
+  ***关键词：目标检测 多视角融合 交通目标行为预测***
+
+  * 摩托车考试科目二自动评判系统  2018-2019  
+  通过计算机视觉技术智能评判摩托车考试科目二中的绕桩行驶、单边桥、坡道启停等项目。详情可见链接。其中涉及桩杆摆角的精确估计、轮胎触地点的厘米级定位、头盔识别、脚着地识别等，精度均持平或超过物理传感器。
+  为全国首例通过无锡所质量检测的基线系统。   
+  [宣传片](https://mp.weixin.qq.com/s/Uz92P7tt9Ndl9Mx_SQoJFA)   
+  [“多伦智能摩托车考试系统”入选 2020年江苏“腾云驾数”转型升级计划优秀产品](https://mp.weixin.qq.com/s/GuhCMnsb2Ee8suLC50jkpA)  
+  ***关键词：目标检测 关键点定位 多视角融合 语义分割 运动目标建模***
+
+  * 机动车考试科目三辅助评判系统  2017-2018  
+  通过车载摄像机、激光雷达、麦克风阵列等设备辅助机动车考试科目三评判。
+  主要包括驾驶员礼让行人、避让机动车、行车观察等行为的判定，以及安全员行
+  为规范监督等。目前已在全国很多地区上线运行。   
+  [项目获《南京市科学技术进步二等奖》](https://mp.weixin.qq.com/s/Ru93bg6FV52Y_26FrKVyWg)  
+  ***关键词：多传感器融合 环境感知 多模态识别 模型压缩加速***
+
+  * 跨平台轻量级深度学习部署框架LearNet  2017-2018  
+  用于深度学习算法部署的C++框架，可支持windows、linux操作系统及
+  x86、arm、Nvidia GPU等计算硬件。框架设计灵活，可快速支持ncnn、
+  mace等开源框架中性能较为优秀的计算模块。同时框架应用数据处理流水线优
+  化、神经网络分支结构异步处理、算子运算精简等方式优化，整体性能优于被移
+  植框架。   
+  ***关键词：深度学习推理框架 异构计算 性能优化***
+
+
+专业技能
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* 业务方向
+  * 面向落地的计算机视觉算法设计，如目标检测分割识别追踪、异常检测、图像处理等
+  * 深度学习算法调优，模型压缩、精度调优等
+* 编程语言
+  * C++、python等
+* 版本管理工具：
+  * Git、SVN等
+* 熟悉常见深度学习推理框架
+  * 如caffe、mxnet、darknet、pytorch等
+* 熟悉常见嵌入式设备算法部署
+  * 如NPU，ARM，Nvidia Jetson等
+
+发表
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* [1] Lei T, Chen S, Wang B, et al. Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection [2024.08 PDF](https://arxiv.org/pdf/2409.05611)
+* [2] 雷天悟.一种基于灰度直方图平滑的先验表计表盘固定阈值二值化方法:202111399998[P]
+* [3] 雷天悟.一种基于近似极心的指针表计表盘展开方法:CN202111389042.5[P].CN202111389042.5
+* [4] 雷天悟.一种基于模板滤波的指针定位方法:202111180506[P]
+* [5] 马培龙,雷天悟.一种基于深度语义特征提取的配电房小动物检测方法:202110695271[P]（一作领导）
