@@ -23,7 +23,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: left;">
-  <img src="\images\authors/csl.png" alt="示例图片" style="width: 200px; height: auto; margin-right: 20px;">
+  <img src="\images\authors\csl.png" alt="示例图片" style="width: 200px; height: auto; margin-right: 20px;">
   <p>陈思霖，本科及硕士就读于中国矿业大学计算机学院，现为南京大学集成电路学院博士生，
 主要研究AI for Remote Sensing、AI for Chips、图像分割等AI交叉学科应用。
 以第一作者/学生第一作者撰写/发表/在投论文4篇，其中包含SCI顶级期刊2篇；以其他作者发表文章5篇。

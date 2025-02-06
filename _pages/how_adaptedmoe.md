@@ -15,7 +15,7 @@ redirect_from:
 
 
 <center>
-  <img src="https://github.com/ray3572/AdaptedMoE_web/tree/gh-pages/images/adaptedmoe/overview.png">
+  <img src="\images\adaptedmoe\overview.png">
 </center> 
 
 # 整体方案
