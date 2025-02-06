@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contact"
+title: ""
 permalink: /contact/
 author_profile: true
 redirect_from:
@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+# [[个人主页]](https://ray3572.github.io/)
+## https://ray3572.github.io/
+
 # 邮箱
 ## tianwulei@smail.nju.edu.cn
 

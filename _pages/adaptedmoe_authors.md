@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "特别致谢&主要技术贡献"
-permalink: /autoaoi_authors/
+permalink: /adaptedmoe_authors/
 author_profile: true
 redirect_from:
   - /resume
