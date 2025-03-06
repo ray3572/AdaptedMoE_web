@@ -10,7 +10,9 @@ AdaptedMoE面向工业检测中常见的训练集与测试集不一致问题，�
 
 
 # [[Arxiv]](https://arxiv.org/pdf/2409.05611)
-
+<center>
+  <img src="https://ray3572.github.io/\images\/adaptedmoe\/overview.png">
+</center> 
 # 目录
 
 ## [痛点问题](https://ray3572.github.io/AdaptedMoE_web/why_adaptedmoe/)
