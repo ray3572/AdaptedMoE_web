@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : &name "雷天悟/TianwuLei"
+name                     : &name "雷天悟（鸣谦）/TianwuLei"
 description              : &description "personal description"
 url                      : "https://ray3572.github.io/AdaptedMoE_web/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "ray3572/ray3572.github.io/AdaptedMoE_web"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "雷天悟/TianwuLei"
+  name             : "雷天悟（鸣谦）/TianwuLei"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "长三角"
