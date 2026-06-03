@@ -16,5 +16,5 @@ redirect_from:
 
 # 扫描二维码添加微信
 <center>
-  <img src="https://ray3572.github.io/images/9d2c23a43966040a5691ab3e135d752.jpg">
+  <img src="{{ base_path }}/images/9d2c23a43966040a5691ab3e135d752.jpg">
 </center>
