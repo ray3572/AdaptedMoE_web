@@ -16,5 +16,5 @@ redirect_from:
 
 # 扫描二维码添加微信
 <center>
-  <img src="{{ base_path }}/images/9d2c23a43966040a5691ab3e135d752.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/9d2c23a43966040a5691ab3e135d752.jpg">
 </center>
